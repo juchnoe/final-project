@@ -2,7 +2,7 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+I don't have a proper title at the moment beyond "Adventure Game". Being that it will be this type of game, it will resemble the finished storyline to be more specific and appropriate.
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
