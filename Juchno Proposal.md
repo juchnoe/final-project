@@ -10,7 +10,7 @@ My project will be a text based choose your own adventure game.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-I plan to do a text based choose your own adventure game that utilizes the rolling of dice as a form of randomization to impact the player's choices in the game. As the player progresses through their options and chooses their desired paths, the results they roll will effect particular outcomes and events, influencing the additional choices they may or may not make playing through. I would also like to include a menu system to make the input from the player to be easy and straightforward, perhaps through the use of a GUI if I can reach that point.
+I plan to do a text based choose your own adventure game that utilizes the rolling of dice as a form of randomization to impact the player's choices in the game. As the player progresses through their options and chooses their desired paths, the results they roll will effect particular outcomes and events, influencing the additional choices they may or may not make playing through. For certain sections, the use of turtles would come into play to illustrate certain parts or situations. I would also like to include a menu system to make the input from the player to be easy and straightforward, perhaps through the use of a GUI if I can reach that point.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
